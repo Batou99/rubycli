@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/teradata
+END
+exception.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/teradata/exception.rb
+END
+connection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/teradata/connection.rb
+END
+utils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/teradata/utils.rb
+END
+cli.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/teradata/cli.rb
+END
+dbobject.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/teradata/dbobject.rb
+END

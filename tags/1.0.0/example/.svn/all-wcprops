@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example
+END
+update.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/update.rb
+END
+query.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/query.rb
+END
+show-queryband.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/show-queryband.rb
+END

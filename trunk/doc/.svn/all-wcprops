@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/rubycli/!svn/ver/9/trunk/doc
+END
+UserManual.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/rubycli/!svn/ver/9/trunk/doc/UserManual.txt
+END
+teradata.re
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/rubycli/!svn/ver/1/trunk/doc/teradata.re
+END
+teradata_en.re
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/rubycli/!svn/ver/4/trunk/doc/teradata_en.re
+END

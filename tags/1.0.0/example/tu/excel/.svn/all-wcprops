@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/tu/excel
+END
+template.xls
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/tu/excel/template.xls
+END
+excel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/tu/excel/excel.rb
+END
+fill.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/tu/excel/fill.rb
+END

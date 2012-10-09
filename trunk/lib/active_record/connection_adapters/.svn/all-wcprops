@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/rubycli/!svn/ver/7/trunk/lib/active_record/connection_adapters
+END
+teradata_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/rubycli/!svn/ver/7/trunk/lib/active_record/connection_adapters/teradata_adapter.rb
+END

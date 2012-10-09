@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/rubycli/!svn/ver/1/trunk/example/tu/web/template
+END
+header
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/rubycli/!svn/ver/1/trunk/example/tu/web/template/header
+END
+footer
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/rubycli/!svn/ver/1/trunk/example/tu/web/template/footer
+END

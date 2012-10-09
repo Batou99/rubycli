@@ -1,0 +1,7 @@
+# $Id$
+
+module BatchWalker
+
+  class Error < ::StandardError; end
+
+end

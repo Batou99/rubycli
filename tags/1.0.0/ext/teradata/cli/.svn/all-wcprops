@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/ext/teradata/cli
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/ext/teradata/cli/depend
+END
+cli.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/ext/teradata/cli/cli.c
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/ext/teradata/cli/extconf.rb
+END

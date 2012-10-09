@@ -1,0 +1,72 @@
+Ruby/CLIv2 README
+=================
+
+  Ruby/CLIv2 is an access module which allows Ruby scripts
+  to access Teradata RDBMS by CLIv2 interface.
+
+
+Requirements
+------------
+
+  * CLIv2 (32bit / 64bit)
+  * Ruby 1.8.x (latest version is the best)
+  * make
+  * C compiler
+  
+  On Windows, you need Visual C++ 6.0 or later.
+
+
+Installation
+------------
+
+  For Linux/UNIX:
+
+  $ make unix
+  $ su
+  # ruby setup.rb install
+
+  For Windows:
+
+  > "C:\Program Files\Visual Studio 9.0\VC\bin\vcvars32"
+  > nmake win
+  > ruby setup.rb install
+
+  !!! CAUTION !!!
+
+  Do not use pathes which include a space with Ruby 1.8.
+  It causes numerous failure on configuration.
+
+
+How to Test
+-----------
+
+  1. Create a new Teradata user (e.g. rubycli).
+  2. export TEST_LOGON_STRING=dbc/rubycli,password
+  3. ruby test/all
+
+
+Limitation
+----------
+
+  * does not support parepared statement (yet).
+  * does not support BLOB/CLOB (yet).
+  * does not support WITH (forever).
+  * does not support partitions other than DBC/SQL (forever).
+
+
+License
+-------
+
+  Copyright (C) 2009,2010 Teradata Japan, LTD.
+
+  This program is free software.
+  You can distribute/modify this program under the terms of
+  the GNU LGPL2, Lesser General Public License version 2.
+  For details of GNU LGPL2, see the file "COPYING".
+
+
+Contact
+-------
+
+  Minero Aoki <minero.aoki@teradata.com> at Teradata Japan, LTD.
+

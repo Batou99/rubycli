@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/batchwalker
+END
+exception.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/batchwalker/exception.rb
+END
+credentialstorage.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/batchwalker/credentialstorage.rb
+END
+utils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/batchwalker/utils.rb
+END
+context.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/lib/batchwalker/context.rb
+END

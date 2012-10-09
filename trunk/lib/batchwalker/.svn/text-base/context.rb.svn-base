@@ -1,0 +1,13 @@
+# $Id$
+
+module BatchWalker
+
+  class Context
+
+    def Context.bwhome
+      ENV['BWHOME']
+    end
+
+  end
+
+end

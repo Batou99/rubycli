@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/tu/web
+END
+tdwalker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/tu/web/tdwalker.rb
+END
+bitdao.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/tu/web/bitdao.rb
+END
+messages
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/tu/web/messages
+END
+server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/tu/web/server.rb
+END
+bitweb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/example/tu/web/bitweb.rb
+END

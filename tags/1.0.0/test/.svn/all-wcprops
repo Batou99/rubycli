@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/test
+END
+test_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/test/test_record.rb
+END
+test_connection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/test/test_connection.rb
+END
+all
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/test/all
+END
+rubyclitestutils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/test/rubyclitestutils.rb
+END
+test_dbobject.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/rubycli/!svn/ver/12/tags/1.0.0/test/test_dbobject.rb
+END

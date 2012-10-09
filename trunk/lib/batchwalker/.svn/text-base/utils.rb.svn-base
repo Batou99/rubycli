@@ -1,0 +1,13 @@
+# $Id$
+
+require 'teradata'
+require 'batchwalker/credentialstorage'
+
+module BatchWalker
+
+  def BatchWalker.logon(key, &block)
+    logon_string = CredentialStorage.load_default[key]
+    Teradata::Connection.open(logon_string, &block)
+  end
+
+end
